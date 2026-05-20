@@ -1,7 +1,5 @@
 # BaconZero
 BaconZero is a portable low-power embedded wireless experimentation platform designed for learning embedded systems, RF communication, and hardware security concepts through hands-on development.
-<<<<<<< HEAD
-=======
 
 Inspired by handheld multi-tool devices ( such as Flipper Zero), BaconZero focuses on modular hardware, efficient firmware design, and practical wireless experimentation in a compact form factor.
 
@@ -51,4 +49,4 @@ Future revisions may include:
 ## Disclaimer
 
 BaconZero is intended for educational purposes, interoperability testing, and authorized security research only. Users are responsible for complying with local laws and regulations regarding wireless communication and signal transmission.
->>>>>>> c370418 (Initial commit)
+
